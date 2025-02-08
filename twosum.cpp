@@ -19,7 +19,7 @@ public:
 int main() {
     Solution sol;  // Create an object of Solution class
     vector<int> nums = {2, 7, 11, 15}; 
-    int target = 9;
+    int target = 9; 
 
     vector<int> result = sol.twoSum(nums, target); 
 
